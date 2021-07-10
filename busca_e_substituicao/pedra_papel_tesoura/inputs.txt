@@ -2,6 +2,3 @@
 spock spock
 tesoura spock
 lagarto spock
-tesoura pedra
-papel pedra
-lagarto lagarto
