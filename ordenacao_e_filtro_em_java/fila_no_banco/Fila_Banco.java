@@ -24,7 +24,8 @@ public class Fila_Banco {
             //TIPOS DE ENTRADAS
             //BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
             //BufferedReader br = new BufferedReader(new FileReader("src/com/ed/exercises/input.in"));
-            BufferedReader br = new BufferedReader(new FileReader("src/bootcampdio_java/in_fila.txt"));
+            BufferedReader br = new BufferedReader(new FileReader("ordenacao_e_filtro_em_java/"+
+                    "fila_no_banco/inputs.txt"));
             //le stream de entrada
             while(br.ready()){
                 String linhas = br.readLine();

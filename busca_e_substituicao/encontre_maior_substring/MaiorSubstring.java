@@ -1,13 +1,13 @@
 import java.io.*;
 
-public class Main {
+public class MaiorSubstring {
     static PrintWriter out = new PrintWriter(System.out);
 
     public static void main(String[] args) throws IOException {
         //static BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
 
-        BufferedReader  in = new BufferedReader(new FileReader("desafios_dio/busca_e_substituicao/"+
-                "desafio_strings/inputs.txt"));
+        BufferedReader  in = new BufferedReader(new FileReader("busca_e_substituicao/"+
+                "encontre_maior_substring/inputs.txt"));
         String min, max, word1,word2  ; //declare suas variaveis aqui
         while ((   word1 = in.readLine()) != null) { // complete seu código
             word2 = in.readLine();

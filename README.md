@@ -7,4 +7,11 @@ Soluções dos desafios propostos no bootcamp Java Developer da Digital Inovatio
 - Fila do Banco
 - Uniformes de Final de Ano
 
+### Busca e Substituiçcão
+
+- Ordenaçcão de palavras por tamanho( com comparator )
+- Encontre a maior substring
+- Validador de senhas com requisitos
+
+
 

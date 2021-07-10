@@ -1,4 +1,3 @@
-
 import java.io.*;
 import java.util.*;
 
@@ -38,7 +37,8 @@ public class Uniformes {
         //TIPOS DE ENTRADAS
         //BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         //BufferedReader br = new BufferedReader(new FileReader("src/com/ed/exercises/input.in"));
-        BufferedReader br = new BufferedReader(new FileReader("src/bootcampdio_java/inputs.txt"));
+        BufferedReader br = new BufferedReader(new FileReader("ordenacao_e_filtro_em_java/"+
+                "uniformes/inputs.txt"));
        //le stream de entrada
 
         while(br.ready()){

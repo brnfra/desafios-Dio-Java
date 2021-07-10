@@ -14,7 +14,8 @@ public class Market {
         String saida = "";
         //BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         //BufferedReader br = new BufferedReader(new FileReader("src/com/ed/exercises/input.in"));
-        BufferedReader br = new BufferedReader(new FileReader("/home/devlab/Documents/Projects/git/Java-practice/desafios_dio/ordenacao_e_filtro_em_java/compra_no_supermercado/inputs.txt"));
+        BufferedReader br = new BufferedReader(new FileReader("ordenacao_e_filtro_em_java/"+
+                "compra_no_supermercado/inputs.txt"));
         //le stream de entrada
 
         while(br.ready()){

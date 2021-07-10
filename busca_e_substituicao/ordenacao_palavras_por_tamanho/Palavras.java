@@ -46,8 +46,8 @@ public class Palavras {
         List<Words> wordList = new ArrayList<>();
         //BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         //BufferedReader br = new BufferedReader(new FileReader("src/com/ed/exercises/input.in"));
-        BufferedReader br = new BufferedReader(new FileReader("desafios_dio/busca_e_substituicao/"+
-                "sort_palavra_por_tamanho/inputs.txt"));
+        BufferedReader br = new BufferedReader(new FileReader("busca_e_substituicao/"+
+                "ordenacao_palavras_por_tamanho/inputs.txt"));
         StringTokenizer fileIn;
         //le stream de entrada
         while (br.ready()){
