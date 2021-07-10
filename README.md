@@ -12,6 +12,8 @@ Soluções dos desafios propostos no bootcamp Java Developer da Digital Inovatio
 - Ordenaçcão de palavras por tamanho( com comparator )
 - Encontre a maior substring
 - Validador de senhas com requisitos
+- Pedra, papel, tesoura...
+- Atalho weblogger
 
 
 
